@@ -1,1 +1,7 @@
 F:\visual studios\CanvasSync\bin\Debug\CanvasSync.exe.config
+C:\Users\Griffin\Project\CanvasSync\bin\Debug\CanvasSync.exe.config
+C:\Users\Griffin\Project\CanvasSync\obj\Debug\CanvasSync.csprojResolveAssemblyReference.cache
+C:\Users\Griffin\Project\CanvasSync\bin\Debug\CanvasSync.exe
+C:\Users\Griffin\Project\CanvasSync\bin\Debug\CanvasSync.pdb
+C:\Users\Griffin\Project\CanvasSync\obj\Debug\CanvasSync.exe
+C:\Users\Griffin\Project\CanvasSync\obj\Debug\CanvasSync.pdb
