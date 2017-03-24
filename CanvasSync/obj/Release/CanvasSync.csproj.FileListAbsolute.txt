@@ -1,0 +1,8 @@
+F:\visual studios\CanvasSync\bin\Release\CanvasSync.exe.config
+F:\visual studios\CanvasSync\bin\Release\CanvasSync.exe
+F:\visual studios\CanvasSync\bin\Release\CanvasSync.pdb
+F:\visual studios\CanvasSync\bin\Release\Newtonsoft.Json.dll
+F:\visual studios\CanvasSync\bin\Release\Newtonsoft.Json.xml
+F:\visual studios\CanvasSync\obj\Release\CanvasSync.csprojResolveAssemblyReference.cache
+F:\visual studios\CanvasSync\obj\Release\CanvasSync.exe
+F:\visual studios\CanvasSync\obj\Release\CanvasSync.pdb

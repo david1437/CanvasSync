@@ -1,7 +1,8 @@
 F:\visual studios\CanvasSync Application\bin\Debug\CanvasSync Application.exe.config
 F:\visual studios\CanvasSync Application\bin\Debug\CanvasSync Application.exe
 F:\visual studios\CanvasSync Application\bin\Debug\CanvasSync Application.pdb
-F:\visual studios\CanvasSync Application\obj\Debug\CanvasSync Application.csprojResolveAssemblyReference.cache
+F:\visual studios\CanvasSync Application\bin\Debug\Newtonsoft.Json.dll
+F:\visual studios\CanvasSync Application\bin\Debug\Newtonsoft.Json.xml
 F:\visual studios\CanvasSync Application\obj\Debug\CanvasSync_Application.form1.resources
 F:\visual studios\CanvasSync Application\obj\Debug\CanvasSync_Application.Properties.Resources.resources
 F:\visual studios\CanvasSync Application\obj\Debug\CanvasSync Application.csproj.GenerateResource.Cache

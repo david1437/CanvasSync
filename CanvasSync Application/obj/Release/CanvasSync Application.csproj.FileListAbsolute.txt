@@ -1,0 +1,10 @@
+F:\visual studios\CanvasSync Application\bin\Release\CanvasSync Application.exe.config
+F:\visual studios\CanvasSync Application\bin\Release\CanvasSync Application.exe
+F:\visual studios\CanvasSync Application\bin\Release\CanvasSync Application.pdb
+F:\visual studios\CanvasSync Application\bin\Release\Newtonsoft.Json.dll
+F:\visual studios\CanvasSync Application\bin\Release\Newtonsoft.Json.xml
+F:\visual studios\CanvasSync Application\obj\Release\CanvasSync_Application.form1.resources
+F:\visual studios\CanvasSync Application\obj\Release\CanvasSync_Application.Properties.Resources.resources
+F:\visual studios\CanvasSync Application\obj\Release\CanvasSync Application.csproj.GenerateResource.Cache
+F:\visual studios\CanvasSync Application\obj\Release\CanvasSync Application.exe
+F:\visual studios\CanvasSync Application\obj\Release\CanvasSync Application.pdb

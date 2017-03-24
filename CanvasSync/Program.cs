@@ -66,7 +66,7 @@ namespace CanvasSync
 
         static void Main(string[] args)
         {
-            curlRequest("https://usflearn.instructure.com/api/v1/courses.json?access_token=13~3WsZaEnMohXuAZDicl6PiAtuOpBxqXoE6aYGYhfVKzgMTz5B13Jzw1jQJ4DXkoBd");
+            curlRequest("https://usflearn.instructure.com/api/v1/courses.json?access_token=13~8sVpVDb1uy6ZYUReOWwepVYsP7LG0uxQPXc0gWBl0RInE2YCqknYbpKZKChlWEhf");
             Console.ReadLine();
         }
 
