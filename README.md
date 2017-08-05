@@ -1,3 +1,5 @@
 CanvasSync Project
 
-The CanvasSync folder is where the main project is
+FInished utilizing json requests in order to get grades for all classes.
+
+No longer in development, but reached main goal of having an application interface show grades.
